@@ -46,7 +46,7 @@ ___
 
 - For the PCB we used abstraction to combine different modules together, for example combining the charging and regulation circuit with ATmega 328P when designing the schematic for the PCB.
 
-![PCB](https://github.com/thisara-g/Parking-Lot-System/assets/135704538/776d932a-9b06-4951-a64e-06bffa218d18)
+<img src="https://github.com/thisara-g/Parking-Lot-System/assets/135704538/776d932a-9b06-4951-a64e-06bffa218d18" alt="PCB" width="400">
 
 
 ### 3.2 Enclosure
