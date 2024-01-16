@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetQ?_C Pin=Q?-C
+Removed Member From Class: ClassName=Sheet1 Member=Q?
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Added Component: Designator=Q3(TO126)
+Added Pin To Net: NetName=NetQ?_C Pin=Q3-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetQ?_C New Net Name=NetQ3_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=VR4-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q4-1
+Added Pin To Net: NetName=NetQ3_3 Pin=VR4-1
+Added Net: Name=NetQ3_3
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 BD139

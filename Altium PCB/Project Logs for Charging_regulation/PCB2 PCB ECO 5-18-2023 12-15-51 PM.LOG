@@ -1,0 +1,16 @@
+Added Component: Designator=C1(CAPPRD200W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEUEB1H1R0S/Panasonic/view-part/5782839/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEUEB1H1R0S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEUEB1H1R0S/Panasonic/view-part/5782839/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_C Pin=C1-N
+Change Net Name : Old Net Name=NetD3_C New Net Name=NetC1_N
+Added Pin To Net: NetName=NetC1_P Pin=C1-P
+Added Pin To Net: NetName=NetC1_P Pin=U1-2
+Added Pin To Net: NetName=NetC1_P Pin=VR1-2
+Added Net: Name=NetC1_P
+Added Member To Class: ClassName=Sheet1 Member=Component C1 EEUEB1H1R0S

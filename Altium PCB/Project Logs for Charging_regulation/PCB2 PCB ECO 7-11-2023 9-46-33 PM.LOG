@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC1_N Pin=C2-N
+Added Component: Designator=D?(LED-1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_N Pin=D?-2
+Added Pin To Net: NetName=NetC2_N Pin=C2-N
+Added Pin To Net: NetName=NetC2_N Pin=D?-1
+Added Net: Name=NetC2_N
+Added Member To Class: ClassName=Sheet1 Member=Component D? LED1

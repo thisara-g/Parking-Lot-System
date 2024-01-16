@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J2-6
+Removed Pin From Net: NetName=VCC Pin=J2-7
+Added Pin To Net: NetName=VCC Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Member To Class: ClassName=Sheet1 Member=Component U2 ATMEGA328P-PU

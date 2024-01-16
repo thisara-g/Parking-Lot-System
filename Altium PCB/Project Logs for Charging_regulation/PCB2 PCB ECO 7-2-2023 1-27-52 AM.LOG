@@ -1,0 +1,30 @@
+Added Component: Designator=C?(CAPRR1250W80L1550T650H1100)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECWF4104HL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO126AV)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BD139"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-126-3 Continental Device"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BD139/ON%20Semiconductor/view-part/2781881/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_N Pin=C?-1
+Added Pin To Net: NetName=NetQ3_C Pin=Q?-C
+Change Net Name : Old Net Name=NetQ3_C New Net Name=NetQ?_C
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Q4-3
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q?-E
+Added Pin To Net: NetName=NetQ4_1 Pin=VR4-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ?_B Pin=Q?-B
+Added Pin To Net: NetName=NetQ?_B Pin=VR4-2
+Added Net: Name=NetQ?_B
+Added Member To Class: ClassName=Sheet1 Member=Component C? ECWF4104HL
+Added Member To Class: ClassName=Sheet1 Member=Component Q? BD139
