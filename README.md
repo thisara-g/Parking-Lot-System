@@ -20,29 +20,21 @@ ___
 
 ## 2. Our Approach
 
-1. Image Transmission
-    - [x] Simulation
-    - [x] Physically
+1. Breadboard implentation
 
-- _Modulation Scheme_ : **2-FSK**
-- _Evaluation Metric_ : Mean Squared Error (_MSE_) between the transmitted Image(_T_) and Received Image(_R_)
-- MSE for Monochrome image of size _MxN_ is defined as
+- We started with getting Arduino modules then writing the code according to the functionality we needed.
 
-    _MSE_ $= \frac{1}{M \cdot N} \sum_{i=1}^{M} \sum_{j=1}^{N} [T(i,j) - R(i,j)]^{2}$
 
-2. Binary Data Stream Transmission
-    - [x] Simulation
-    - [x] Physically
+2. Power Supply 
 
-- _Modulation Scheme_ : **2-GFSK**
-- _Evaluation Metric_ : Bit Error Rate (_BER_)
+- Battery : We used 2 Li-ion 18650 batteries in series.
+- Charging : For charging we implemented a circuit with auto cut-off at 8.4V since we used 2 batteries in series.
 
-3. Voice Transmission (Real Time voice captured from MIC / Recorded voice clip)
-    - [x] Simulation
-    - [x] Physically
+3. Enclosure
 
-- _Modulation Scheme_ : **2-GFSK**
-- _Evaluation Metric_ : Based on the Quality of the Received Voice (Evaluated by Hearing it)
+- We drew an initial sketch of what our product should look like and also made 3D model of it.
+![Product Model Intial](https://github.com/thisara-g/Parking-Lot-System/assets/135704538/5b1d5433-3192-4bef-8644-98e0ba9b5aac)
+
 
 ___
 
