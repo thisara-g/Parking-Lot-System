@@ -114,7 +114,7 @@ We used [Streamlit](https://streamlit.io/) to interface our project with GRC flo
 
 ___
 
-## 4. Contributors (Team RadioHeads)
+## 4. Contributors (Team Phoenix)
 
 - [Thisara Gunawardana](https://lk.linkedin.com/in/thisara-gunawardana-3a1774264)
 - [Nadil Gunawardana](https://lk.linkedin.com/in/)
