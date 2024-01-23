@@ -58,10 +58,10 @@ ___
 
 ## 4. Contributors (Team Phoenix)
 
-- [Thisara Gunawardana](https://lk.linkedin.com/in/thisara-gunawardana-3a1774264)
-- [Nadil Gunawardana](https://lk.linkedin.com/in/)
-- [Raveen Pathirana](https://lk.linkedin.com/in/)
-- [Kehan Manamperi](https://lk.linkedin.com/in/)
+- [Thisara Gunawardana](https://lk.linkedin.com/in/thisara-gunawardana-3a1774264/)
+- [Nadil Gunawardana](https://lk.linkedin.com/in/nadil-gunawardane-6a6220215/)
+- [Raveen Pathirana](https://lk.linkedin.com/in/raveen-pramuditha-504564214/)
+- [Kehan Manamperi](https://lk.linkedin.com/in/manamperige-kehan-anjula-75b244214/)
 
 ___
 <div style="display: flex; align-items: center;">
